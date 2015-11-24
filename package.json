@@ -1,0 +1,22 @@
+{
+  "name": "react_router_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack & http-server -c-1 -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^5.8.34",
+    "babel-loader": "^5.4.0",
+    "history": "^1.13.1",
+    "http-server": "^0.8.5",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "^1.0.0",
+    "webpack": "^1.12.8"
+  }
+}
